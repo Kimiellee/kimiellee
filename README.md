@@ -45,7 +45,6 @@ I'm currently learning more about deep learning and generative AI.
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kimiaizadi)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=flat&logo=kaggle)](https://kaggle.com/kayyiz)  
-📬 Email: kimaizadi@gmail.com
  
  
  <!--
